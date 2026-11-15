@@ -1,0 +1,62 @@
+{
+  "qubits|L=2|global|uniform": {
+    "slope_log10": -0.5302974979440138,
+    "factor_per_qubit": 0.29491882983135637,
+    "r2": 0.9888107175994789,
+    "n_points": 5
+  },
+  "qubits|L=2|local|uniform": {
+    "slope_log10": -0.24923110789224381,
+    "factor_per_qubit": 0.5633377983254264,
+    "r2": 0.8192399652611801,
+    "n_points": 5
+  },
+  "qubits|L=6|global|uniform": {
+    "slope_log10": -0.5375347079158194,
+    "factor_per_qubit": 0.2900449391520296,
+    "r2": 0.9752163126014192,
+    "n_points": 5
+  },
+  "qubits|L=6|local|uniform": {
+    "slope_log10": -0.272346761919283,
+    "factor_per_qubit": 0.5341377074642387,
+    "r2": 0.9130433303116706,
+    "n_points": 5
+  },
+  "init|L=6|global|uniform": {
+    "slope_log10": -0.5375347079158194,
+    "factor_per_qubit": 0.2900449391520296,
+    "r2": 0.9752163126014192,
+    "n_points": 5
+  },
+  "init|L=6|global|small": {
+    "slope_log10": -0.11409684810417706,
+    "factor_per_qubit": 0.7689589425513488,
+    "r2": 0.9970792453342969,
+    "n_points": 5
+  },
+  "init|L=6|global|identity_block": {
+    "slope_log10": -0.13622218234177952,
+    "factor_per_qubit": 0.7307651329628402,
+    "r2": 0.9912968834775181,
+    "n_points": 5
+  },
+  "init|L=6|local|uniform": {
+    "slope_log10": -0.272346761919283,
+    "factor_per_qubit": 0.5341377074642387,
+    "r2": 0.9130433303116706,
+    "n_points": 5
+  },
+  "init|L=6|local|small": {
+    "slope_log10": -0.20282787736686114,
+    "factor_per_qubit": 0.6268622578904838,
+    "r2": 0.9345229654892454,
+    "n_points": 5
+  },
+  "init|L=6|local|identity_block": {
+    "slope_log10": -0.23390181783669828,
+    "factor_per_qubit": 0.5835770202444659,
+    "r2": 0.9749776271551703,
+    "n_points": 5
+  }
+}
